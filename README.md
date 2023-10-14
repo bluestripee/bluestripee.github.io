@@ -26,7 +26,7 @@
 
 ## Projects:
 - This website
-- [Building a PC](https://ca.pcpartpicker.com/list/8bkRKX)
+- [Building a PC](https://ca.pcpartpicker.com/list/CzCqRK)
 - Some programs in the future
 - Nothing really else
 
