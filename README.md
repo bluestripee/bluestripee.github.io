@@ -1,4 +1,4 @@
-##### bluestripee
+###### bluestripee
 # Hello! 👋
 **I’m Bluestripe**
 - Student 📚
@@ -8,7 +8,7 @@
 - He/Him 👨‍💻
 - New to github 👀
 
-![break in text](https://thumb.ac-illust.com/f9/f9c72bf63a16cf2a796d68fe71a73109_t.jpeg)
+
 
 ### Find me:
 - [Skyblock](https://sky.shiiyu.moe/stats/bluestripee/Apple)
@@ -17,3 +17,8 @@
 - [Spotify](https://open.spotify.com/user/31gckxvsuf2hea65xk3ucgww2f74)
 - [Reddit](https://www.reddit.com/user/Bluestripee)
 - Youtube soon?
+
+
+### Projects:
+- This website
+- Nothing really else
