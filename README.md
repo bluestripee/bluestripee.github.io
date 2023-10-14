@@ -16,7 +16,7 @@
 - [Spotify](https://open.spotify.com/user/31gckxvsuf2hea65xk3ucgww2f74)
 - [Reddit](https://www.reddit.com/user/Bluestripee)
 - Youtube soon?
-
+- Hero Wars Dominion: Web 32 *bluestripe* Web 145 *Silly Goose*
 
 ### Projects:
 - This website
