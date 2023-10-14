@@ -7,7 +7,7 @@
 - He/Him 👨‍💻
 - New here, still looking around 👀
 
-![break in text](https://www.bwillcreative.com/wp-content/uploads/2022/08/how-to-draw-straight-lines-in-photoshop-5-best-ways-10.jpg)
+![break in text](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/line-1602152758.png)
 
 ### Find me:
 - [Skyblock](https://sky.shiiyu.moe/stats/bluestripee/Apple)
