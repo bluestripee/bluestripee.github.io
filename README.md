@@ -1,6 +1,5 @@
-###### bluestripee
 # Hello! 👋
-**I’m Bluestripe**
+**I’m bluestripe**
 - Student 📚
 - (beginner) Coder 🫠
 - I like building PC's
@@ -21,4 +20,5 @@
 
 ### Projects:
 - This website
+- [Building a PC](https://ca.pcpartpicker.com/list/9C7MVW)
 - Nothing really else
