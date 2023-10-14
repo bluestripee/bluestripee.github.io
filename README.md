@@ -7,7 +7,7 @@
 - He/Him 👨‍💻
 - New to github 👀
 
-![break in text](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/line-1602152758.png)
+![break in text](https://thumb.ac-illust.com/f9/f9c72bf63a16cf2a796d68fe71a73109_t.jpeg)
 
 ### Find me:
 - [Skyblock](https://sky.shiiyu.moe/stats/bluestripee/Apple)
