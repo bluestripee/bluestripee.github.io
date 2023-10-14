@@ -14,3 +14,4 @@
 - Discord: @notbluestripe
 - [Scratch](https://scratch.mit.edu/users/-FlameIntros/)
 - [Spotify](https://open.spotify.com/user/31gckxvsuf2hea65xk3ucgww2f74)
+- [Reddit](https://www.reddit.com/user/Bluestripee)
