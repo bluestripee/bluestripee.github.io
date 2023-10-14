@@ -1,4 +1,5 @@
 # Hello! 👋
+
 ### I’m bluestripee
 
 
@@ -12,7 +13,7 @@
 - professional discord user
 
 
-### Find me:
+## Find me:
 - [Skyblock](https://sky.shiiyu.moe/stats/bluestripee/Apple)
 - Discord: @notbluestripe
 - [Scratch](https://scratch.mit.edu/users/-FlameIntros/)
@@ -23,11 +24,10 @@
 - [Github](https://github.com/bluestripee)
 
 
-### Projects:
+## Projects:
 - This website
 - [Building a PC](https://ca.pcpartpicker.com/list/9C7MVW)
 - Some organisation programs in the future
 - Nothing really else
 
 
-#
